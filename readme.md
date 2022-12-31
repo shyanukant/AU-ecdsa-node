@@ -4,7 +4,7 @@ This project is an example of using a client and server to facilitate transfers 
 
 However, something that we would like to incoporate is Public Key Cryptography. By using Elliptic Curve Digital Signatures we can make it so the server only allows transfers that have been signed for by the person who owns the associated address.
 ### Final Project - `Shyanukant Rathi`
-<iframe width="560" height="315" src="https://www.youtube.com/embed/meghTcW6kEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video muted autoplay loop src="https://youtu.be/meghTcW6kEY"></video>
 ### Video instructions
 For an overview of this project as well as getting started instructions, check out the following video:
 
